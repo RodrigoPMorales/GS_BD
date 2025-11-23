@@ -5,3 +5,7 @@
 --Video
 
 https://youtu.be/LHCzUZijD64
+
+-- Aplicação java para as procedures
+
+https://github.com/RodrigoPMorales/GS_BD_Procedures.git
